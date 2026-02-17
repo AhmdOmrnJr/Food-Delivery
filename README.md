@@ -408,8 +408,8 @@ Use [Semantic Versioning](https://semver.org/) for tags:
 
 ## 🔗 Links
 
-- **Repository**: [https://github.com/RedaAwwad/Food-Delivery](https://github.com/RedaAwwad/Food-Delivery)
-- **Issues**: [https://github.com/RedaAwwad/Food-Delivery/issues](https://github.com/RedaAwwad/Food-Delivery/issues)
+- **Repository**: [https://github.com/AhmdOmrnJr/Food-Delivery](https://github.com/AhmdOmrnJr/Food-Delivery)
+- **Issues**: [https://github.com/AhmdOmrnJr/Food-Delivery/issues](https://github.com/AhmdOmrnJr/Food-Delivery/issues)
 
 ---
 
